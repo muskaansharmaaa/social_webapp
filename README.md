@@ -5,7 +5,7 @@ create .env with the following code (update credentials). Make sure to create .e
 APP_NAME=nodeapi
 PORT=8080
 JWT_SECRET=xxxxxx
-CLIENT_URL=http://localhost:3000
+CLIENT_URL=http://localhost:3000 
 Then run the following commands to start up the app
 cd nodeapi
 npm install

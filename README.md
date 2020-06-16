@@ -1,4 +1,4 @@
-# social_webapp
+# social_webapp in MERN
 
 To run this project, do the following: (backend )
 create .env with the following code (update credentials). Make sure to create .env in the root directory of the project. nodeapi/.env
